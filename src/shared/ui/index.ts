@@ -1,0 +1,12 @@
+export { H1 } from './H1';
+export { H2 } from './H2';
+export { P } from './P';
+export { P2 } from './P2';
+export { I } from './I';
+export { Link } from './Link';
+export { Container } from './Container';
+export { CardWrapper } from './CardWrapper';
+export { BaseButton } from './BaseButton';
+export { TextQuestion } from './TextQuestion';
+export { ArrowButton } from './ArrowButton';
+export * from './Input';
